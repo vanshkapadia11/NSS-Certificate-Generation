@@ -1,0 +1,11 @@
+{
+  "excel": "participants.xlsx",
+  "sheet": null,
+  "template": "grainathon-template.pdf",
+  "output": "output/certificates",
+  "delivery_log": "data/delivery.sqlite3",
+  "event_id": "grainathon-2026",
+  "organizer": "Grainathon Team",
+  "name": {"x_percent": 50, "y_percent": 52, "font_size": 32, "color": "#163F34"},
+  "smtp": {"host": "smtp.gmail.com", "port": 465, "ssl": true, "sender": "", "username": ""}
+}
